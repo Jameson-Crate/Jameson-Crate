@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[LinkedIn](linkedin.com/in/jameson-crate) </br>
-[Vision Portfolio](www.jamesoncrate.xyz) </br>
+[LinkedIn](https://www.linkedin.com/in/jameson-crate) </br>
+[Vision Portfolio](https://www.jamesoncrate.xyz) </br>
 <!--
 **Jameson-Crate/Jameson-Crate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
