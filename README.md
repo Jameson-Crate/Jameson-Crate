@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Email: jamesoncrate@gmail.com
+LinkedIn: linkedin.com/in/jameson-crate
+Vision Portfolio: jamesoncrate.xyz
 <!--
 **Jameson-Crate/Jameson-Crate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
