@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 [LinkedIn](https://www.linkedin.com/in/jameson-crate) </br>
 [Vision Portfolio](https://www.jamesoncrate.xyz) </br>
